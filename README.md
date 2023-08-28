@@ -1,5 +1,5 @@
 # qrcode
-
+![Qr code app]([URL](https://github.com/Hind-Alaa-Fathy/qr-code/blob/main/qr.PNG?raw=true))
 A new Flutter project.
 
 ## Getting Started
