@@ -1,7 +1,7 @@
 
 # <img src="https://github.com/Hind-Alaa-Fathy/qr-code/raw/main/qr.PNG" alt="QR Code" width="30" height="30"> Qr code app
 
-This is a flutter project which you can scan Qr code , show this link andn copy it.
+This is a flutter project which you can scan Qr code , show this link and copy it.
 
 ## app screens
 1.home page 
